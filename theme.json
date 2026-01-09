@@ -8,6 +8,10 @@
       ]
     }
   },
+  "style": {
+    "chrome": "userChrome.css",
+    "content": "userContent.css"
+  },
   "homepage": "https://github.com/JustADumbPrsn/Zen-Nebula",
   "author": "JustADumbPrsn",
   "name": "Nebula",
